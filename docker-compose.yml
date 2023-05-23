@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  recomendation_cache:
+    image: redis/redis-stack
+    ports:
+      - "6379:6379"
+  anomaly-detector:
+    build: ./servicio-recomendaciones/
+    environment:
+      - REDIS_CONNECTION_STRING=recomendation_cache:6379
+    depends_on:
+      - recomendation_cache
+networks:
+    default:
+        driver: bridge

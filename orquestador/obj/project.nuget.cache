@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "c58AN6j7fsWio7MAUzkB40qwWbk0I95Qhux5lg8u09P1GVBAHtZeV3t4SQcSPdldFoYP9PMJPazFOTwrTQdFSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\orquestador\\orquestador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\julio.MSI\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

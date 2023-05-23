@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\servicio-recomendaciones\\servicio-recomendaciones.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\servicio-recomendaciones\\servicio-recomendaciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\servicio-recomendaciones\\servicio-recomendaciones.csproj",
+        "projectName": "servicio-recomendaciones",
+        "projectPath": "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\servicio-recomendaciones\\servicio-recomendaciones.csproj",
+        "packagesPath": "C:\\Users\\julio.MSI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julio.MSI\\source\\repos\\sistema-recomendaciones\\servicio-recomendaciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\julio.MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Redis.OM": {
+              "target": "Package",
+              "version": "[0.5.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
